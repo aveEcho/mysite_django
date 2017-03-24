@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     # 管理静态文件的框架
     'django.contrib.staticfiles',
+    'blog',
 ]
 
 # 包含可执行中间件的元组
